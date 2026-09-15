@@ -2,8 +2,8 @@
 
 **Noté. Un fichier par étudiant, écrit avec vos mots.** Une phrase honnête (« j'ai essayé X, j'ai vu Y, je ne comprends pas pourquoi ») rapporte plus qu'une phrase parfaite recopiée.
 
-- Nom :
-- Binôme :
+- Nom :Obre Jolissaint 
+- Binôme : Shun Mampuya
 - Atelier utilisé (le mien, celui du binôme, la reprise) :
 
 ## Pour chaque TP abordé
